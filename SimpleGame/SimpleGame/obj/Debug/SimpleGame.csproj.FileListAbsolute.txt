@@ -1,0 +1,7 @@
+D:\Мои работы\SimpleGame\SimpleGame\bin\Debug\SimpleGame.exe.config
+D:\Мои работы\SimpleGame\SimpleGame\bin\Debug\SimpleGame.exe
+D:\Мои работы\SimpleGame\SimpleGame\bin\Debug\SimpleGame.pdb
+D:\Мои работы\SimpleGame\SimpleGame\obj\Debug\SimpleGame.csproj.AssemblyReference.cache
+D:\Мои работы\SimpleGame\SimpleGame\obj\Debug\SimpleGame.csproj.CoreCompileInputs.cache
+D:\Мои работы\SimpleGame\SimpleGame\obj\Debug\SimpleGame.exe
+D:\Мои работы\SimpleGame\SimpleGame\obj\Debug\SimpleGame.pdb
